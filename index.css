@@ -1,0 +1,165 @@
+#titulo1{
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+
+#opciones li{
+    padding: 0px;
+    display: inline;
+    margin: 20px;
+    position: relative;
+    top: -50px;
+    left: 1050px; 
+}
+.op1{
+    color: red;
+}
+.op1:hover{
+    background-color:white;
+    padding: 10px;
+}
+.op2{
+    color: red; 
+}
+.op2:hover{
+    background-color:white;
+    padding: 10px;
+}
+.op3{
+    color: red;  
+}
+.op3:hover{
+    background-color:white;
+    padding: 10px;
+}
+
+
+.titulo2{
+    color: red;
+    background-color: black;
+    
+    text-align: center;
+}
+
+#opciones2 li{
+    display: inline; 
+    position: relative;
+    top: -42px;
+}
+
+.op4{
+    color: red;
+   margin-right: 170px;
+}
+.op4:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op5{
+    color: red;
+    margin-right: 170px; 
+}
+.op5:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op6{
+    color: red;
+    margin-right: 310px;
+}
+.op6:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op7{
+    color: red;
+    margin-right: 170px; 
+}
+.op7:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op8{
+    color: red;
+    margin-right: 130px; 
+}
+.op8:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op9{
+    color: red;
+    margin-right: 0px; 
+    
+}
+.op9.op9:hover{
+    background-color:white;
+    padding: 10px;   
+}
+
+#eleguir li{
+    
+   margin-bottom: 70px;
+}
+
+.op10{
+    color: red;
+    background-color: black;
+}
+.op10:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op11{
+   color: red;
+   background-color: black;
+}
+.op11:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op11:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op12{
+    color: red;
+   background-color: black;
+}
+.op12:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op13{
+    color: red;
+   background-color: black;
+}
+.op13:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op14{
+    color: red;
+   background-color: black;
+}
+.op14:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op15{
+    color: red;
+   background-color: black;
+}
+.op15:hover{
+    background-color:white;
+    padding: 10px; 
+}
+.op16{
+    color: red;
+   background-color: black;
+}
+.op16:hover{
+    background-color:white;
+    padding: 10px; 
+}
